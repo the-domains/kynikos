@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kynikos]]></title>
-        <description><![CDATA[kynikos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The ancient cynics were dogs]]></title>
+        <description><![CDATA[The ancient cynics were dogs]]></description>
+        <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 16:00:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 16:07:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfb71395-9df7-4910-b89f-0d89f9f828b1.jpg">]]></description>
+            <link>https://thegrid.ai/kynikos/d4e1918b-3dce-456a-bb5f-c360e8d89ef1/index.html</link>
+            <guid isPermaLink="false">d4e1918b-3dce-456a-bb5f-c360e8d89ef1</guid>
+            <pubDate>Fri, 15 Jan 2016 16:07:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/kynikos/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">c3f7484f-137c-4cc8-bde6-ef54fbe1a00e</guid>
             <pubDate>Fri, 15 Jan 2016 16:00:25 GMT</pubDate>
         </item>
