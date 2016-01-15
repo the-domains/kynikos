@@ -1,0 +1,28 @@
+name: kynikos
+favicon: null
+layout_spectrum: 0.3191008635330945
+typography_spectrum: 0.8341536656953394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5525191782508045
+  lightness: 0.16545542585663497
+  saturation: 0.4410981179680675
+  rhythmicContrast: 0.007244209060445428
+purpose: []
