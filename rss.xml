@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kynikos: The ancient cynics were dogs]]></title>
-        <description><![CDATA[kynikos: The ancient cynics were dogs]]></description>
+        <title><![CDATA[kynikos]]></title>
+        <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 16:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 20:09:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b8f708f-7cba-48a5-93f2-5b7c8e8bad0a.jpg">]]></description>
+            <link>https://thegrid.ai/kynikos/1301912b-a494-463e-8b06-3dca15e59c87/index.html</link>
+            <guid isPermaLink="false">1301912b-a494-463e-8b06-3dca15e59c87</guid>
+            <pubDate>Fri, 15 Jan 2016 20:09:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[On the Beach]]></title>
-            <description><![CDATA[<article><h1>On the Beach</h1><p>My Great Dane Buckley at Virginia Beach 1/6/12</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fe9728f10cb0750573d443f14ac0d2888a97d0a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>On the Beach</h1><p>My Great Dane Buckley at Virginia Beach 1/6/12</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95f6f31748fb83fd0973b1a63e09364097192afc.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/d4e1918b-3dce-456a-bb5f-c360e8d89ef1/index.html</link>
             <guid isPermaLink="false">d4e1918b-3dce-456a-bb5f-c360e8d89ef1</guid>
             <pubDate>Fri, 15 Jan 2016 16:51:11 GMT</pubDate>
