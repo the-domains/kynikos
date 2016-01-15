@@ -1,7 +1,7 @@
 name: kynikos
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.51538
+typography_spectrum: 0.55495
 title: kynikos
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#a29572'
+    - '#01010d'
+    - '#c0b997'
+    - '#4c4c38'
   brandStrength: 0
   lightness: 0.625
-  saturation: 0.1875
+  saturation: 0.75
   rhythmicContrast: 0.5
 purpose: []
