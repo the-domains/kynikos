@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 19:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 19:51:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Pittsburgh]]></title>
+            <description><![CDATA[<article><h1>Pittsburgh</h1><p>Pittsburgh at night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440153ccd2b4e9fa54f7cd53eb3df4673b26f9ea.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/pittsburgh/index.html</link>
+            <guid isPermaLink="false">7382c015-a75c-4d0e-9910-a673d73fc24b</guid>
+            <pubDate>Mon, 18 Jan 2016 19:51:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dane on the Boardwalk]]></title>
-            <description><![CDATA[<article><h1>Dane on the Boardwalk</h1><p>Rescue Dane saying hello to Wendy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a5b38d6765cdcdf57abc55dc2557bfbf4b99eb2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dane on the Boardwalk</h1><p>Rescue Dane saying hello to Wendy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee5b8bf091c8fabdb8ce23b3546928ff7ec38def.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/dane-on-the-boardwalk/index.html</link>
             <guid isPermaLink="false">2760be5a-6796-46c8-aa9e-89fd38f214a1</guid>
             <pubDate>Mon, 18 Jan 2016 19:24:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/ruby-jane/index.html</link>
             <guid isPermaLink="false">2dadd33d-bae3-4211-ae88-5d2702e35b80</guid>
             <pubDate>Mon, 18 Jan 2016 16:42:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hawk]]></title>
-            <description><![CDATA[<article><h1>Hawk</h1><p>The Homestead, Hot Springs, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3de64c9ae459879133fafccd803a8fce8526f92c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/hawk/index.html</link>
-            <guid isPermaLink="false">1369eac1-e933-4f4b-8484-4c972f51bedc</guid>
-            <pubDate>Mon, 18 Jan 2016 16:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
