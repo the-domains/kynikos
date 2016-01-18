@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Looking down from the Virginia Beach Convention Center, Virginia Beach, VA'
-datePublished: '2016-01-18T20:27:09.267Z'
+datePublished: '2016-01-18T20:27:09.251Z'
 dateModified: '2016-01-18T20:27:07.942Z'
 title: 19th and Parks Ave
 author: []
