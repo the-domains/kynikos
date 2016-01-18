@@ -3,11 +3,11 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Great Dane in Virginia Beach, VA'
-datePublished: '2016-01-18T16:04:58.473Z'
-dateModified: '2016-01-18T16:04:49.605Z'
+datePublished: '2016-01-18T16:09:17.836Z'
+dateModified: '2016-01-18T16:09:08.767Z'
 title: Dane on the Beach
 author: []
 sourcePath: _posts/2016-01-18-dane-on-the-beach.md
