@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Blues on the Beach, Virginia Beach, VA'
-datePublished: '2016-01-18T16:21:42.486Z'
+datePublished: '2016-01-18T16:21:42.526Z'
 dateModified: '2016-01-18T16:21:38.085Z'
 title: Tommy Castro
 author: []
