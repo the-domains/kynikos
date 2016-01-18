@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Great Dane in Virginia Beach, VA'
-datePublished: '2016-01-18T16:48:17.782Z'
+datePublished: '2016-01-18T16:48:17.819Z'
 dateModified: '2016-01-18T16:48:15.951Z'
 title: Dane on the Beach
 author: []
