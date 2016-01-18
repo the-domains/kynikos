@@ -4,7 +4,7 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 16:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 16:49:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ruby Jane]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[Hawk]]></title>
-            <description><![CDATA[<article><h1>Hawk</h1><p>The Homestead, Hot Springs, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/860bbbb6885a0eeee8ba004544784739b2dc0445.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hawk</h1><p>The Homestead, Hot Springs, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3de64c9ae459879133fafccd803a8fce8526f92c.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/hawk/index.html</link>
             <guid isPermaLink="false">1369eac1-e933-4f4b-8484-4c972f51bedc</guid>
             <pubDate>Mon, 18 Jan 2016 16:46:00 GMT</pubDate>
@@ -39,7 +39,7 @@
             <description><![CDATA[<article><h1>Austin Crew</h1><p>Rowing 8 on the water in Austin, TX</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18fc46333b2d9049593862f1dcc714cd2ce7860c.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/austin-crew/index.html</link>
             <guid isPermaLink="false">84b30d8f-3e6a-4000-a26c-30b474d25f81</guid>
-            <pubDate>Mon, 18 Jan 2016 16:25:34 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 16:49:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
