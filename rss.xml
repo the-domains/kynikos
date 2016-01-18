@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 19:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 20:27:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[19th and Parks Ave]]></title>
+            <description><![CDATA[<article><h1>19th and Parks Ave</h1><p>Looking down from the Virginia Beach Convention Center, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d11dec8ee502786c8b271ae2b9f6113956c83e0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/19th-and-parks-ave/index.html</link>
+            <guid isPermaLink="false">7c811b5c-dc66-4bac-bbfb-749eadfde7a0</guid>
+            <pubDate>Mon, 18 Jan 2016 20:27:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pittsburgh]]></title>
-            <description><![CDATA[<article><h1>Pittsburgh</h1><p>Pittsburgh at night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440153ccd2b4e9fa54f7cd53eb3df4673b26f9ea.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Pittsburgh</h1><p>Pittsburgh at night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71eeeb4d0a81bb7eb2586abc420f0d774e44db20.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/pittsburgh/index.html</link>
             <guid isPermaLink="false">7382c015-a75c-4d0e-9910-a673d73fc24b</guid>
             <pubDate>Mon, 18 Jan 2016 19:51:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/libby-hill/index.html</link>
             <guid isPermaLink="false">c0024f02-2c9c-49f6-9296-e0762d4167c9</guid>
             <pubDate>Mon, 18 Jan 2016 17:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ruby Jane]]></title>
-            <description><![CDATA[<article><h1>Ruby Jane</h1><p>Ruby Jane Smith and her band at MapJam, French Legation Museum, Austin, TX</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75e5a1c4d6112bdf82743e29a32faeef9db290a3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/ruby-jane/index.html</link>
-            <guid isPermaLink="false">2dadd33d-bae3-4211-ae88-5d2702e35b80</guid>
-            <pubDate>Mon, 18 Jan 2016 16:42:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
