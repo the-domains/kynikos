@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Band playing in a parking lot in Virginia Beach, VA'
-datePublished: '2016-01-18T20:53:09.062Z'
+datePublished: '2016-01-18T20:53:09.171Z'
 dateModified: '2016-01-18T20:53:07.084Z'
 title: Metal Band
 author: []
