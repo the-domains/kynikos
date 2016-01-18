@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Band playing in a parking lot in Virginia Beach, VA'
-datePublished: '2016-01-18T20:50:07.469Z'
-dateModified: '2016-01-18T20:49:48.070Z'
+datePublished: '2016-01-18T20:51:39.864Z'
+dateModified: '2016-01-18T20:51:36.337Z'
 title: Metal Band
 author: []
 authors: []
