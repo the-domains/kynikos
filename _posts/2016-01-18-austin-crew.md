@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Crew on Town Lake in Austin, TX'
-datePublished: '2016-01-18T15:11:13.846Z'
-dateModified: '2016-01-18T15:11:00.709Z'
+description: 'Rowing 8 on the water in Austin, TX'
+datePublished: '2016-01-18T15:17:46.716Z'
+dateModified: '2016-01-18T15:17:27.083Z'
 title: Austin Crew
 author: []
 authors: []
@@ -22,5 +22,4 @@ url: austin-crew/index.html
 _type: Blurb
 
 ---
-Austin Crew
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c1d800-a045-4841-a9bf-d697786842d5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/719e8562-4c8f-4ff1-a1f2-6e44d213f520.jpg)
