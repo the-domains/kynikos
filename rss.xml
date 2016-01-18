@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 20:51:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Metal Band]]></title>
+            <description><![CDATA[<article><h1>Metal Band</h1><p>Band playing in a parking lot in Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f36a5146138be751fc38ee9690a8f88243d9ac9c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/metal-band/index.html</link>
+            <guid isPermaLink="false">0568f2d1-aa6c-4ada-922d-ac7ae39119cd</guid>
+            <pubDate>Mon, 18 Jan 2016 20:51:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[19th St and Parks Ave]]></title>
-            <description><![CDATA[<article><h1>19th St and Parks Ave</h1><p>Looking down from the Convention Center, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6813bd7cb2e2889d6519ee79322554fa8e8c6cdb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>19th St and Parks Ave</h1><p>Looking down from the Convention Center, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/071b93bb04c6794c577a1d72daa34fc56eb98cf3.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/19th-st-and-parks-ave/index.html</link>
             <guid isPermaLink="false">f940b8d5-8d84-4a18-8a05-99de2de49510</guid>
             <pubDate>Mon, 18 Jan 2016 20:34:32 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/shuffleboard/index.html</link>
             <guid isPermaLink="false">fd4a745b-2801-470d-8350-ae5469971ae5</guid>
             <pubDate>Mon, 18 Jan 2016 18:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Libby Hill]]></title>
-            <description><![CDATA[<article><h1>Libby Hill</h1><p>2015 UCI World Championships, Libby Hill, Richmond, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd9bdb25a3ba6836b06409c64a03529e9242ee6c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/libby-hill/index.html</link>
-            <guid isPermaLink="false">c0024f02-2c9c-49f6-9296-e0762d4167c9</guid>
-            <pubDate>Mon, 18 Jan 2016 17:09:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
