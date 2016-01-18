@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Blues on the Beach, Virginia Beach, VA'
-datePublished: '2016-01-18T16:25:27.544Z'
-dateModified: '2016-01-18T16:25:21.709Z'
+datePublished: '2016-01-18T16:43:54.819Z'
+dateModified: '2016-01-18T16:43:52.293Z'
 title: Tommy Castro
 author: []
 sourcePath: _posts/2016-01-18-tommy-castro.md
@@ -22,4 +22,4 @@ url: tommy-castro/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7c680ff-0361-4990-94eb-9e61363b0729.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/99dcfdba649039dff491c014accccf7210744f47.jpg)
