@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Rowing 8 on the water in Austin, TX'
-datePublished: '2016-01-18T16:25:34.907Z'
-dateModified: '2016-01-18T16:24:57.108Z'
+datePublished: '2016-01-18T16:49:20.529Z'
+dateModified: '2016-01-18T16:49:18.126Z'
 title: Austin Crew
 author: []
 sourcePath: _posts/2016-01-18-austin-crew.md
@@ -22,4 +22,4 @@ url: austin-crew/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad4b4fd2-b7a9-473f-8fdf-1bec0dfc566a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18fc46333b2d9049593862f1dcc714cd2ce7860c.jpg)
