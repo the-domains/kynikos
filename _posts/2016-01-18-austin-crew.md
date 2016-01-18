@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Rowing 8 on the water in Austin, TX'
-datePublished: '2016-01-18T15:38:06.707Z'
-dateModified: '2016-01-18T15:37:58.483Z'
+datePublished: '2016-01-18T15:43:03.029Z'
+dateModified: '2016-01-18T15:43:00.781Z'
 title: Austin Crew
 author: []
 authors: []
