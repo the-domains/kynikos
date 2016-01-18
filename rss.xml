@@ -4,8 +4,15 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 16:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 16:16:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tommy Castro]]></title>
+            <description><![CDATA[<article><h1>Tommy Castro</h1><p>null</p></article>]]></description>
+            <link>https://thegrid.ai/kynikos/tommy-castro/index.html</link>
+            <guid isPermaLink="false">f146be7c-b59b-49dd-af03-d5a4db04427f</guid>
+            <pubDate>Mon, 18 Jan 2016 16:16:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
