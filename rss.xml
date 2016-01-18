@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 21:01:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sax Player]]></title>
+            <description><![CDATA[<article><h1>Sax Player</h1><p>Saxophonist at 31st St Stage in Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8a780e4b78f0ded3bc81617c578cd7d6ebb99a3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/sax-player/index.html</link>
+            <guid isPermaLink="false">fbb1f130-ae44-4b72-89e7-6d22fd499d95</guid>
+            <pubDate>Mon, 18 Jan 2016 21:01:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Metal Band]]></title>
-            <description><![CDATA[<article><h1>Metal Band</h1><p>Band playing in a parking lot in Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67dd740ceccd4ffffc1a3f05632c000dd04408c6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Metal Band</h1><p>Band playing in a parking lot in Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76a53c99f5b9a319d8c72942d564f8d4f010267b.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/metal-band/index.html</link>
             <guid isPermaLink="false">8cd4c201-e0c6-40b3-ad8c-9e15e082e9f6</guid>
             <pubDate>Mon, 18 Jan 2016 20:56:28 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/tyler-farrar/index.html</link>
             <guid isPermaLink="false">c427b04c-bb11-45a5-aace-810308f0710d</guid>
             <pubDate>Mon, 18 Jan 2016 18:49:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shuffleboard]]></title>
-            <description><![CDATA[<article><h1>Shuffleboard</h1><p>Buffalo Billiards, 6th St, Austin, TX</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97f4acafc4ea3ea579c74b848f95f6f331769c30.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/shuffleboard/index.html</link>
-            <guid isPermaLink="false">fd4a745b-2801-470d-8350-ae5469971ae5</guid>
-            <pubDate>Mon, 18 Jan 2016 18:44:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
