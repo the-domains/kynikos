@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Band playing in a parking lot in Virginia Beach, VA'
-datePublished: '2016-01-18T20:53:09.361Z'
-dateModified: '2016-01-18T20:53:07.084Z'
+datePublished: '2016-01-18T20:56:28.966Z'
+dateModified: '2016-01-18T20:56:05.376Z'
 title: Metal Band
 author: []
 authors: []
@@ -22,4 +22,4 @@ url: metal-band/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/622910f0-8fb4-4294-ac6b-330701090581.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13b8fa76-3712-41b4-b3c5-b084c1809a53.jpg)
