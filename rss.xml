@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 19:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 19:25:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Dane on the Boardwalk]]></title>
+            <description><![CDATA[<article><h1>Dane on the Boardwalk</h1><p>Rescue Dane saying hello to Wendy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a5b38d6765cdcdf57abc55dc2557bfbf4b99eb2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/dane-on-the-boardwalk/index.html</link>
+            <guid isPermaLink="false">2760be5a-6796-46c8-aa9e-89fd38f214a1</guid>
+            <pubDate>Mon, 18 Jan 2016 19:24:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jetstars]]></title>
-            <description><![CDATA[<article><h1>Jetstars</h1><p>Regal Beagle, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9356fc13513ab98fcbbd70316c6c7665b9cfad44.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Jetstars</h1><p>Regal Beagle, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f44a9c29760faec508e1c15dbe309366c71bb3a6.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/jetstars/index.html</link>
             <guid isPermaLink="false">a94e60ab-39c0-4410-b1e7-be3f5969c178</guid>
             <pubDate>Mon, 18 Jan 2016 19:17:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/hawk/index.html</link>
             <guid isPermaLink="false">1369eac1-e933-4f4b-8484-4c972f51bedc</guid>
             <pubDate>Mon, 18 Jan 2016 16:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tommy Castro]]></title>
-            <description><![CDATA[<article><h1>Tommy Castro</h1><p>Blues on the Beach, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/297400a7225e1f81b38b5d9e33039c2ff952c530.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/tommy-castro/index.html</link>
-            <guid isPermaLink="false">f146be7c-b59b-49dd-af03-d5a4db04427f</guid>
-            <pubDate>Mon, 18 Jan 2016 16:43:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
