@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 15:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 15:55:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1d9464e-a6c3-43a6-9d1f-d28f5c3d4836.jpg">]]></description>
+            <link>https://thegrid.ai/kynikos/41574a45-d435-43cd-9d69-4b35ae75ca87/index.html</link>
+            <guid isPermaLink="false">41574a45-d435-43cd-9d69-4b35ae75ca87</guid>
+            <pubDate>Tue, 19 Jan 2016 15:55:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climbing Libby Hill]]></title>
-            <description><![CDATA[<article><h1>Climbing Libby Hill</h1><p>2015 UCI World Championships, Richmond, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ff74b233b5bb8b1888137af8734b26686fef99.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Climbing Libby Hill</h1><p>2015 UCI World Championships, Richmond, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e5f6d875fa6eab8609c5130f446634eee5a55ac.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/climbing-libby-hill/index.html</link>
             <guid isPermaLink="false">a82dadfb-6be1-468c-9d36-2e10aca77feb</guid>
             <pubDate>Tue, 19 Jan 2016 15:21:58 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/dane-on-the-boardwalk/index.html</link>
             <guid isPermaLink="false">2760be5a-6796-46c8-aa9e-89fd38f214a1</guid>
             <pubDate>Mon, 18 Jan 2016 19:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jetstars]]></title>
-            <description><![CDATA[<article><h1>Jetstars</h1><p>Regal Beagle, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f44a9c29760faec508e1c15dbe309366c71bb3a6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/jetstars/index.html</link>
-            <guid isPermaLink="false">a94e60ab-39c0-4410-b1e7-be3f5969c178</guid>
-            <pubDate>Mon, 18 Jan 2016 19:17:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
