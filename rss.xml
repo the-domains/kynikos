@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 19:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 19:48:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Chicken]]></title>
+            <description><![CDATA[<article><h1>Chicken</h1><p>Ms P's Electric Cock, Austin, TX</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d8ca89413caa171291f5538829ea27e2851543d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/chicken/index.html</link>
+            <guid isPermaLink="false">24ca2fc2-43e8-4d23-aaf6-b51513533890</guid>
+            <pubDate>Tue, 19 Jan 2016 19:48:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Broadway Tower]]></title>
-            <description><![CDATA[<article><h1>Broadway Tower</h1><p>Broadway, Cotswolds, UK</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a31f23035600e44841bd1b4f990c2f74ef41e55f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Broadway Tower</h1><p>Broadway, Cotswolds, UK</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3165a5aaa4923bc3b10944131192ee1d9dca6255.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/broadway-tower/index.html</link>
             <guid isPermaLink="false">dc2c9386-b8f3-4f11-bce6-ba1912eb21bf</guid>
             <pubDate>Tue, 19 Jan 2016 19:44:20 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/sax-player/index.html</link>
             <guid isPermaLink="false">fbb1f130-ae44-4b72-89e7-6d22fd499d95</guid>
             <pubDate>Mon, 18 Jan 2016 21:01:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Metal Band]]></title>
-            <description><![CDATA[<article><h1>Metal Band</h1><p>Band playing in a parking lot in Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76a53c99f5b9a319d8c72942d564f8d4f010267b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/metal-band/index.html</link>
-            <guid isPermaLink="false">8cd4c201-e0c6-40b3-ad8c-9e15e082e9f6</guid>
-            <pubDate>Mon, 18 Jan 2016 20:56:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
