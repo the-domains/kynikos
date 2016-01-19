@@ -4,8 +4,15 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 15:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 16:09:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Carvetop]]></title>
+            <description><![CDATA[<article><h1>Carvetop</h1><p>Carvetop guitar built by Reed</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6006ee95516446b061600e97a2f15a4c80f0a6ab.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/carvetop/index.html</link>
+            <guid isPermaLink="false">33a1302a-1082-4f74-9b39-cc3fcc97dceb</guid>
+            <pubDate>Tue, 19 Jan 2016 16:08:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1d9464e-a6c3-43a6-9d1f-d28f5c3d4836.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/pittsburgh/index.html</link>
             <guid isPermaLink="false">7382c015-a75c-4d0e-9910-a673d73fc24b</guid>
             <pubDate>Mon, 18 Jan 2016 19:51:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dane on the Boardwalk]]></title>
-            <description><![CDATA[<article><h1>Dane on the Boardwalk</h1><p>Rescue Dane saying hello to Wendy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee5b8bf091c8fabdb8ce23b3546928ff7ec38def.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/dane-on-the-boardwalk/index.html</link>
-            <guid isPermaLink="false">2760be5a-6796-46c8-aa9e-89fd38f214a1</guid>
-            <pubDate>Mon, 18 Jan 2016 19:24:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
