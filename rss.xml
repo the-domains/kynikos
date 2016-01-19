@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 19:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 20:28:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Skater]]></title>
+            <description><![CDATA[<article><h1>Skater</h1><p>Rudee Inlet, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae0857bd1d737fa1b74b1a2ff40e9597146178f2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/skater/index.html</link>
+            <guid isPermaLink="false">0d2715f5-53ac-4929-93da-8c6709ee4e20</guid>
+            <pubDate>Tue, 19 Jan 2016 20:27:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chicken]]></title>
-            <description><![CDATA[<article><h1>Chicken</h1><p>Ms P's Electric Cock, Austin, TX</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d8ca89413caa171291f5538829ea27e2851543d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Chicken</h1><p>Ms P's Electric Cock, Austin, TX</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39064e775d5539e04074d9e78d99fdb6c4b2c6ea.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/chicken/index.html</link>
             <guid isPermaLink="false">24ca2fc2-43e8-4d23-aaf6-b51513533890</guid>
             <pubDate>Tue, 19 Jan 2016 19:48:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/the-fountain-of-eternal-life/index.html</link>
             <guid isPermaLink="false">77fcccac-b865-457f-a259-fb0e96129b93</guid>
             <pubDate>Mon, 18 Jan 2016 21:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sax Player]]></title>
-            <description><![CDATA[<article><h1>Sax Player</h1><p>Saxophonist at 31st St Stage in Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fca412ce4fd4ab0e30c297d37d2290d593617d7d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/sax-player/index.html</link>
-            <guid isPermaLink="false">fbb1f130-ae44-4b72-89e7-6d22fd499d95</guid>
-            <pubDate>Mon, 18 Jan 2016 21:01:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
