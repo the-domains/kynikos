@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2015 UCI World Championships, Libby Hill, Richmond, VA'
-datePublished: '2016-01-19T14:57:59.761Z'
+datePublished: '2016-01-19T14:57:59.804Z'
 dateModified: '2016-01-19T14:57:56.359Z'
 title: Libby Hill
 author: []
