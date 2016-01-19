@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2015 UCI World Championships, Richmond, VA'
-datePublished: '2016-01-19T15:07:43.051Z'
-dateModified: '2016-01-19T15:07:26.975Z'
+datePublished: '2016-01-19T15:21:58.161Z'
+dateModified: '2016-01-19T15:21:41.236Z'
 title: Climbing Libby Hill
 author: []
 authors: []
@@ -22,4 +22,4 @@ url: climbing-libby-hill/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f53f8f-1bb5-4289-a1f7-a22706c08766.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8ec42c1-ee42-4285-b9d3-18cf36565824.jpg)
