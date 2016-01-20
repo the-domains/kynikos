@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 20:00:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 20:38:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[St Thomas at Night]]></title>
+            <description><![CDATA[<article><h1>St Thomas at Night</h1><p>Cruz Bay, St John, USVI</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df2fdf2fe8b34d8a00c1db9fad3cae5338657767.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/st-thomas-at-night/index.html</link>
+            <guid isPermaLink="false">2e89ae46-52b2-4db7-801d-43687fde259a</guid>
+            <pubDate>Wed, 20 Jan 2016 20:38:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[400m]]></title>
-            <description><![CDATA[<article><h1>400m</h1><p>Peter Sagan at 400 meters from winning road race at the 2015 UCI World Championships, Richmond, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfa6d8ad6ad1c71aa200192f2f3754150e1e5088.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>400m</h1><p>Peter Sagan at 400 meters from winning road race at the 2015 UCI World Championships, Richmond, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a49b440d128c8f131e07b48d8843456771569e22.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/400m/index.html</link>
             <guid isPermaLink="false">121acc17-954d-4871-a385-9db0a1b8bd00</guid>
             <pubDate>Wed, 20 Jan 2016 19:59:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/two-seals/index.html</link>
             <guid isPermaLink="false">3d124b02-ac80-443b-a82b-ada2d6abb61d</guid>
             <pubDate>Tue, 19 Jan 2016 19:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Buddy Guy]]></title>
-            <description><![CDATA[<article><h1>Buddy Guy</h1><p>Chesapeake Bay Bluesfest, Sandy Point, MD</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/916fa228d8be7034ab9f95e475074eedca6c4c87.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/buddy-guy/index.html</link>
-            <guid isPermaLink="false">d09487f1-c1a8-44b1-9e84-5c6d8144432c</guid>
-            <pubDate>Tue, 19 Jan 2016 18:47:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
