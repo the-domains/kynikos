@@ -4,8 +4,15 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 19:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 19:48:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dive into Corner]]></title>
+            <description><![CDATA[<article><h1>Dive into Corner</h1><p>2015 UCI World Championships, Richmond, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00c72b0cb115206af20be5a0ee2e9ba518777e21.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/dive-into-corner/index.html</link>
+            <guid isPermaLink="false">e9a41d13-0b75-4382-9a97-74a13aab6a3e</guid>
+            <pubDate>Wed, 20 Jan 2016 19:47:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[23rd and Broad]]></title>
             <description><![CDATA[<article><h1>23rd and Broad</h1><p>2015 UCI World Championships, Richmond, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e992153fb24a4cc8b64c0b0f774b791691adeb6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/archtop/index.html</link>
             <guid isPermaLink="false">6f341896-d388-4919-b0b2-2452482dbae4</guid>
             <pubDate>Tue, 19 Jan 2016 16:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climbing Libby Hill]]></title>
-            <description><![CDATA[<article><h1>Climbing Libby Hill</h1><p>2015 UCI World Championships, Richmond, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e5f6d875fa6eab8609c5130f446634eee5a55ac.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/climbing-libby-hill/index.html</link>
-            <guid isPermaLink="false">a82dadfb-6be1-468c-9d36-2e10aca77feb</guid>
-            <pubDate>Tue, 19 Jan 2016 15:21:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
