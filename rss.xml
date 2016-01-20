@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 00:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 16:43:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Surfers]]></title>
+            <description><![CDATA[<article><h1>Surfers</h1><p>1st St jetty, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/014f840b2be37f1b5fea2fd0cfed2d19702323a0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/surfers/index.html</link>
+            <guid isPermaLink="false">9c21644d-dc74-4556-957e-7af83c208236</guid>
+            <pubDate>Wed, 20 Jan 2016 16:43:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cinnamon Bay]]></title>
-            <description><![CDATA[<article><h1>Cinnamon Bay</h1><p>St John, USVI</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440d202139cd80f47d9fe3436343cfd3cfd50a3f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cinnamon Bay</h1><p>St John, USVI</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/895721f7701b0ba022315a070508caeefd978500.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/cinnamon-bay/index.html</link>
             <guid isPermaLink="false">a2b6d2fc-dcc8-4725-859d-e076b8350794</guid>
             <pubDate>Wed, 20 Jan 2016 00:06:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/golden/index.html</link>
             <guid isPermaLink="false">f7b49899-1af8-4f38-b8ca-bf55944a66ff</guid>
             <pubDate>Mon, 18 Jan 2016 23:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Riverscene]]></title>
-            <description><![CDATA[<article><h1>Riverscene</h1><p>Thames River, Oxford, UK</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fc26f4edd693f41c4d39db550f66c8dde3dae43.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/riverscene/index.html</link>
-            <guid isPermaLink="false">c1dba68c-5c91-489a-94a0-92cf05069d16</guid>
-            <pubDate>Mon, 18 Jan 2016 21:12:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
