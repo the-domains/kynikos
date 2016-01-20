@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 20:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 00:06:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cinnamon Bay]]></title>
+            <description><![CDATA[<article><h1>Cinnamon Bay</h1><p>St John, USVI</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440d202139cd80f47d9fe3436343cfd3cfd50a3f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/cinnamon-bay/index.html</link>
+            <guid isPermaLink="false">a2b6d2fc-dcc8-4725-859d-e076b8350794</guid>
+            <pubDate>Wed, 20 Jan 2016 00:06:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Skater]]></title>
-            <description><![CDATA[<article><h1>Skater</h1><p>Rudee Inlet, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae0857bd1d737fa1b74b1a2ff40e9597146178f2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Skater</h1><p>Rudee Inlet, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c000785d71bf6c30bdb483964e12030e3c86ddcd.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/skater/index.html</link>
             <guid isPermaLink="false">0d2715f5-53ac-4929-93da-8c6709ee4e20</guid>
             <pubDate>Tue, 19 Jan 2016 20:27:47 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/riverscene/index.html</link>
             <guid isPermaLink="false">c1dba68c-5c91-489a-94a0-92cf05069d16</guid>
             <pubDate>Mon, 18 Jan 2016 21:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fountain of Eternal Life]]></title>
-            <description><![CDATA[<article><h1>The Fountain of Eternal Life</h1><p>Cleveland, OH</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a26fa2d21a468d8325fa34884ef6dbb495fbc2ee.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/the-fountain-of-eternal-life/index.html</link>
-            <guid isPermaLink="false">77fcccac-b865-457f-a259-fb0e96129b93</guid>
-            <pubDate>Mon, 18 Jan 2016 21:05:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
