@@ -4,8 +4,15 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 00:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 00:37:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Damon Fowler Band]]></title>
+            <description><![CDATA[<article><h1>Damon Fowler Band</h1><p>Blues at the Beach, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0bd5aabe9024d3487bc693b855c154cc06982a7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/damon-fowler-band/index.html</link>
+            <guid isPermaLink="false">e576aa03-15ea-444f-85a4-67aad62bf2d9</guid>
+            <pubDate>Fri, 22 Jan 2016 00:37:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27b2db7b-628b-4638-9c6e-145b75c8ccdd.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/skater/index.html</link>
             <guid isPermaLink="false">0d2715f5-53ac-4929-93da-8c6709ee4e20</guid>
             <pubDate>Tue, 19 Jan 2016 20:27:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chicken]]></title>
-            <description><![CDATA[<article><h1>Chicken</h1><p>Ms P's Electric Cock, Austin, TX</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39064e775d5539e04074d9e78d99fdb6c4b2c6ea.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/chicken/index.html</link>
-            <guid isPermaLink="false">24ca2fc2-43e8-4d23-aaf6-b51513533890</guid>
-            <pubDate>Tue, 19 Jan 2016 19:48:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
