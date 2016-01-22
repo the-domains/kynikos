@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 21:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 00:31:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27b2db7b-628b-4638-9c6e-145b75c8ccdd.jpg">]]></description>
+            <link>https://thegrid.ai/kynikos/9fac452c-28da-41bc-b093-ffb39ad4b728/index.html</link>
+            <guid isPermaLink="false">9fac452c-28da-41bc-b093-ffb39ad4b728</guid>
+            <pubDate>Fri, 22 Jan 2016 00:31:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eye]]></title>
-            <description><![CDATA[<article><h1>Eye</h1><p>London, UK</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f429d042e22d6e96ec5a978cb08669e6366c00a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Eye</h1><p>London, UK</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/275ab07dbf0a384a154864873435d927f3e535b9.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/eye/index.html</link>
             <guid isPermaLink="false">b8559130-db01-4b45-adf9-9e499872c908</guid>
             <pubDate>Wed, 20 Jan 2016 21:09:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/chicken/index.html</link>
             <guid isPermaLink="false">24ca2fc2-43e8-4d23-aaf6-b51513533890</guid>
             <pubDate>Tue, 19 Jan 2016 19:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Broadway Tower]]></title>
-            <description><![CDATA[<article><h1>Broadway Tower</h1><p>Broadway, Cotswolds, UK</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3165a5aaa4923bc3b10944131192ee1d9dca6255.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/broadway-tower/index.html</link>
-            <guid isPermaLink="false">dc2c9386-b8f3-4f11-bce6-ba1912eb21bf</guid>
-            <pubDate>Tue, 19 Jan 2016 19:44:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
