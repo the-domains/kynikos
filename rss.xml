@@ -4,11 +4,18 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 00:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 01:04:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bernard Allison]]></title>
-            <description><![CDATA[<article><h1>Bernard Allison</h1><p>Blues at the Beach, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5284e016c6fb54981cce12db312caa3691611c79.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bernard Allison</h1><p>Blues at the Beach, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/853572235f3eac228c6f6575a8d836a9ced50919.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kynikos/bernard-allison/index.html</link>
+            <guid isPermaLink="false">15a92088-009c-4fd3-90fb-4e0ad191781c</guid>
+            <pubDate>Fri, 22 Jan 2016 01:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bernard Allison]]></title>
+            <description><![CDATA[<article><h1>Bernard Allison</h1><p>Blues at the Beach, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01e957dad974f3b092ee35734d959b1fe48f2701.jpg"></article>]]></description>
             <link>https://thegrid.ai/kynikos/bernard-allison/index.html</link>
             <guid isPermaLink="false">77ec3503-1f93-47ab-8c0d-38968e696a15</guid>
             <pubDate>Fri, 22 Jan 2016 00:50:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kynikos/cinnamon-bay/index.html</link>
             <guid isPermaLink="false">a2b6d2fc-dcc8-4725-859d-e076b8350794</guid>
             <pubDate>Wed, 20 Jan 2016 00:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skater]]></title>
-            <description><![CDATA[<article><h1>Skater</h1><p>Rudee Inlet, Virginia Beach, VA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c000785d71bf6c30bdb483964e12030e3c86ddcd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/skater/index.html</link>
-            <guid isPermaLink="false">0d2715f5-53ac-4929-93da-8c6709ee4e20</guid>
-            <pubDate>Tue, 19 Jan 2016 20:27:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
