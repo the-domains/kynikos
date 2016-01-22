@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Blues at the Beach, Virginia Beach, VA'
-datePublished: '2016-01-22T00:50:07.966Z'
-dateModified: '2016-01-22T00:49:45.640Z'
+datePublished: '2016-01-22T00:59:10.708Z'
+dateModified: '2016-01-22T00:58:48.617Z'
 title: Bernard Allison
 author: []
 authors: []
@@ -22,4 +22,4 @@ url: bernard-allison/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a58ba0ae-ccac-4450-9348-94a456b0dce7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df00e5f1-fbb7-429e-a986-a423b823786f.jpg)
