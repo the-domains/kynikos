@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-17T15:42:56.512Z'
-dateModified: '2016-03-17T15:42:52.530Z'
+datePublished: '2016-03-17T15:50:57.909Z'
+dateModified: '2016-03-17T15:43:03.300Z'
 title: Sunrise over Christiansted
 author: []
 sourcePath: _posts/2016-03-17-sunrise-over-christiansted.md
