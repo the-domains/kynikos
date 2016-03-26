@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Cane Bay, St Croix, USVI'
-datePublished: '2016-03-26T21:26:06.467Z'
-dateModified: '2016-03-26T21:25:32.217Z'
+datePublished: '2016-03-26T21:29:17.632Z'
+dateModified: '2016-03-26T21:26:13.955Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-26-cane-bay-st-croix-usvi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-cane-bay-st-croix-usvi.md
-published: true
 url: cane-bay-st-croix-usvi/index.html
 _type: Article
 
