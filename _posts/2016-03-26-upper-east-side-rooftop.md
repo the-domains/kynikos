@@ -4,23 +4,20 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
 description: Upper East Side Rooftop
-datePublished: '2016-03-26T19:14:32.985Z'
-dateModified: '2016-03-26T19:14:23.712Z'
+datePublished: '2016-06-30T14:42:05.936Z'
+dateModified: '2016-06-30T14:42:05.439Z'
 title: ''
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-26-upper-east-side-rooftop.md
-published: true
+authors: []
+publisher: null
+starred: false
 _type: Blurb
 
 ---
 Upper East Side Rooftop
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df0fe37d-043b-41bd-b031-f1df488fc3af.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c25f733f28dcbafc2ea656c8926d4f92a797183.jpg)
