@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-30T15:01:06.102Z'
-dateModified: '2016-06-30T15:00:22.284Z'
+datePublished: '2016-06-30T15:11:15.068Z'
+dateModified: '2016-06-30T15:00:02.775Z'
 title: ''
 author:
   - name: ''
@@ -19,4 +19,4 @@ starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a58ba0ae-ccac-4450-9348-94a456b0dce7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81541bb1-dfae-4de3-aa6f-e2a16d341c76.jpg)
