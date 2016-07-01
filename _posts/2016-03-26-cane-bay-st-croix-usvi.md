@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Cane Bay, St Croix, USVI'
-datePublished: '2016-07-01T16:15:06.135Z'
-dateModified: '2016-07-01T16:15:01.726Z'
+description: 'St Croix, USVI'
+datePublished: '2016-07-01T16:22:35.997Z'
+dateModified: '2016-07-01T16:21:57.607Z'
 title: Cane Bay
 author:
   - name: Doug Albach
@@ -19,5 +19,4 @@ url: cane-bay/index.html
 _type: Article
 
 ---
-**Cane Bay, St Croix, USVI**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/19cd7adcd51189ceda78f27ff969657cf0ccae8b.jpg)
