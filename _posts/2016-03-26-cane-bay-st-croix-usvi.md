@@ -1,22 +1,22 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'St Croix, USVI'
-datePublished: '2016-07-01T17:40:51.780Z'
-dateModified: '2016-07-01T17:40:36.674Z'
-title: Cane Bay
-author:
-  - name: ''
-    url: ''
+datePublished: '2016-07-01T19:39:23.251Z'
 sourcePath: _posts/2016-03-26-cane-bay-st-croix-usvi.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: Doug Albach
+    url: ''
+dateModified: '2016-07-01T19:38:59.648Z'
+title: Cane Bay
 publisher: null
+description: 'St Croix, USVI'
+inLanguage: null
+inNav: true
 starred: false
 url: cane-bay/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/19cd7adcd51189ceda78f27ff969657cf0ccae8b.jpg)
+![Cane Bay, St Croix, USVI 2016](https://s3-us-west-2.amazonaws.com/the-grid-img/p/19cd7adcd51189ceda78f27ff969657cf0ccae8b.jpg)
