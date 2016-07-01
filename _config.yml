@@ -1,7 +1,7 @@
 name: kynikos
 favicon: null
-layout_spectrum: 0.00769
-typography_spectrum: 0.79451
+layout_spectrum: 0.728821630589664
+typography_spectrum: 0.8617541138082743
 title: kynikos
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#a29572'
-    - '#01010d'
-    - '#c0b997'
-    - '#4c4c38'
-  brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.75
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.37473875330761075
+  lightness: 0.5350026087835431
+  saturation: 0.9440078365150839
+  rhythmicContrast: 0.47157795587554574
 purpose: []
