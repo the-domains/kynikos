@@ -4,7 +4,7 @@
         <description><![CDATA[kynikos]]></description>
         <link>https://thegrid.ai/kynikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 00:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 00:59:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kynikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Muir Woods National Monument]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/kynikos/muir-woods-national-monument/index.html</link>
             <guid isPermaLink="false">6e95f165-6a0a-4fbd-8964-8894f338072e</guid>
             <pubDate>Tue, 09 Aug 2016 00:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Muir Woods]]></title>
-            <description><![CDATA[<article><h1>Muir Woods</h1><p>Muir Woods Nation Monument</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44b4f5e2-8c49-4af3-9246-a84851df5844.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kynikos/muir-woods/index.html</link>
-            <guid isPermaLink="false">ed5983ec-4c30-4a62-b6ab-bdc6c0c60c33</guid>
-            <pubDate>Tue, 09 Aug 2016 00:44:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
